@@ -7,4 +7,7 @@
 5. 打git status (應該有紅色的東西)
 6. 打git add .
 7. 打git status(應該是綠色的)
+8. 打 git commit -m "文字"
+9. 打 git remote add origin 複製github上面的東西
+10. git push -u 
 
